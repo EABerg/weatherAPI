@@ -1,0 +1,22 @@
+{
+  "name": "weatherapi",
+  "version": "1.0.0",
+  "description": "RESTful weatherAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EABerg/weatherApi.git"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "author": "Erwin van den Berg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EABerg/weatherApi/issues"
+  },
+  "homepage": "https://github.com/EABerg/weatherApi#readme"
+}
