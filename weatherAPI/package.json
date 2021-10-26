@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/EABerg/weatherApi/issues"
   },
-  "homepage": "https://github.com/EABerg/weatherApi#readme"
+  "homepage": "https://github.com/EABerg/weatherApi#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
