@@ -5,7 +5,6 @@ var unirest = require('unirest');
 
 exports.currentTemperature = function (request, response) {
     currentWeather(currentWeather, function (result) {
-        console.log(result);
         response.json({ currentTemp : result.main.temp })//return the result
 
     });
